@@ -28,7 +28,7 @@ This project analyzes Diwali sales data to uncover customer purchasing patterns 
 
 2. Install the required libraries:
    ```bash
-   pip install numpy pandas matplotlib seaborn jupyter
+   pip install -r requirements.txt
    ```
 
 3. Launch Jupyter Notebook:

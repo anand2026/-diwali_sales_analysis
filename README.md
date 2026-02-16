@@ -18,6 +18,24 @@ This project analyzes Diwali sales data to uncover customer purchasing patterns 
 - **Matplotlib** – Data visualization
 - **Seaborn** – Statistical data visualization
 
+## Installation & Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/anand2026/-diwali_sales_analysis.git
+   cd -diwali_sales_analysis
+   ```
+
+2. Install the required libraries:
+   ```bash
+   pip install numpy pandas matplotlib seaborn jupyter
+   ```
+
+3. Launch Jupyter Notebook:
+   ```bash
+   jupyter notebook Diwali_Sales_Analysis.ipynb
+   ```
+
 ## Data Cleaning & Preprocessing
 
 1. Dropped unrelated/blank columns (`Status`, `unnamed1`)
@@ -68,3 +86,20 @@ This insight can help businesses:
 - **Focus inventory** on Food, Clothing, and Electronics for Diwali season
 - **Prioritize** states like UP, Maharashtra, and Karnataka for regional promotions
 - **Tailor advertisements** for professionals in IT, Healthcare, and Aviation
+
+## Project Structure
+
+```
+diwali_sales_analysis/
+├── Diwali Sales Data.csv          # Raw sales dataset
+├── Diwali_Sales_Analysis.ipynb    # Jupyter notebook with full analysis
+└── README.md                      # Project documentation
+```
+
+## License
+
+This project is open source and available for educational purposes.
+
+---
+
+⭐ If you found this project helpful, give it a star!

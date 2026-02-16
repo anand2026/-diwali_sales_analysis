@@ -17,3 +17,10 @@ This project analyzes Diwali sales data to uncover customer purchasing patterns 
 - **Pandas** – Data manipulation and analysis
 - **Matplotlib** – Data visualization
 - **Seaborn** – Statistical data visualization
+
+## Data Cleaning & Preprocessing
+
+1. Dropped unrelated/blank columns (`Status`, `unnamed1`)
+2. Handled null values by dropping incomplete records
+3. Converted `Amount` column to integer data type for accurate calculations
+4. Renamed columns for better readability

@@ -1,5 +1,10 @@
 # 🪔 Diwali Sales Analysis
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green?logo=pandas)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 ## Project Description
 
 This project analyzes Diwali sales data to uncover customer purchasing patterns and improve business strategies. Using Python and data analysis libraries, we explore sales trends across demographics, regions, and product categories.

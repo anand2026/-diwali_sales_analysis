@@ -107,6 +107,12 @@ diwali_sales_analysis/
 
 This project is open source and available for educational purposes.
 
+## Acknowledgements
+
+- Dataset sourced from Kaggle
+- Inspired by real-world Diwali festive season sales data
+- Built as a data analysis practice project using Python
+
 ---
 
 ⭐ If you found this project helpful, give it a star!

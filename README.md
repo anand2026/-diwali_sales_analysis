@@ -93,6 +93,8 @@ This insight can help businesses:
 diwali_sales_analysis/
 ├── Diwali Sales Data.csv          # Raw sales dataset
 ├── Diwali_Sales_Analysis.ipynb    # Jupyter notebook with full analysis
+├── requirements.txt               # Python dependencies
+├── .gitignore                     # Git ignore rules
 └── README.md                      # Project documentation
 ```
 

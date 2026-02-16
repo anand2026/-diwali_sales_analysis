@@ -24,3 +24,37 @@ This project analyzes Diwali sales data to uncover customer purchasing patterns 
 2. Handled null values by dropping incomplete records
 3. Converted `Amount` column to integer data type for accurate calculations
 4. Renamed columns for better readability
+
+## Exploratory Data Analysis
+
+The analysis covers the following dimensions:
+
+### 👫 Gender Analysis
+- Visualized buyer count by gender
+- Compared total purchase amount across genders
+- **Finding:** Most buyers are **females**, and their purchasing power is greater than males
+
+### 🎂 Age Group Analysis
+- Analyzed buyer distribution across age groups with gender breakdown
+- Compared total spending by age group
+- **Finding:** Most buyers belong to the **26-35 years** age group, predominantly female
+
+### 🗺️ State-wise Analysis
+- Identified top 10 states by number of orders
+- Identified top 10 states by total sales amount
+- **Finding:** **Uttar Pradesh, Maharashtra, and Karnataka** lead in both orders and total sales
+
+### 💍 Marital Status Analysis
+- Explored buyer count by marital status
+- Analyzed spending patterns by marital status and gender
+- **Finding:** **Married women** are the highest spenders with strong purchasing power
+
+### 💼 Occupation Analysis
+- Visualized buyer distribution across occupations
+- Compared total spending by occupation
+- **Finding:** Buyers working in **IT, Healthcare, and Aviation** sectors dominate purchases
+
+### 🛍️ Product Category Analysis
+- Identified most sold product categories
+- Analyzed top 10 most sold individual products by Product ID
+- **Finding:** **Food, Clothing, and Electronics** are the most popular product categories
